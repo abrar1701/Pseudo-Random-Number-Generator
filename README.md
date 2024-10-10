@@ -1,4 +1,4 @@
-# Pseudo Randomnumber Generator
+# Pseudorandom Number Generator
 ## Aim:
 ## Design Steps:
 ### Step 1:
