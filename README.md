@@ -1,5 +1,6 @@
-# Pseudorandom Number Generator
+# EX-6 | Pseudorandom Number Generator
 ## Aim:
+To create a Pseudorandom Number Generator.
 ## Design Steps:
 ### Step 1:
 Design of the Pseudorandom Number Generator.
